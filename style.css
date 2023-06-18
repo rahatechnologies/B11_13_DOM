@@ -1,0 +1,7 @@
+#first-ul li:nth-child(2){
+ color: red;
+}
+
+ul:last-of-type li:nth-child(3){
+color: green;
+}
